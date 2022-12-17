@@ -7,7 +7,7 @@
 ##revert2
 
 **11**times
-# Important
+# Important things
 |a |b |
 |-- |--|
 |apple |120yen<br>500yen |
